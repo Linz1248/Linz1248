@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6E7681&center=true&vCenter=true&width=620&lines=LLM+Agent+Development+%F0%9F%A4%96;Hybrid+RAG+%7C+Multi-Agent+Orchestration;Diffusion+Models+%7C+FastAPI+Backends" alt="Typing intro: LLM agent development, hybrid RAG and multi-agent orchestration, diffusion models and FastAPI backends" />
-
 # Johan Lin
 
-**AI Application Developer · LLM Agent Engineer · M.Eng. Student @ Guangzhou University**
+**AI Application Developer · Full Stack Development · M.Eng. CS @ Guangzhou University**
 
 [![Profile views](https://komarev.com/ghpvc/?username=Linz1248&label=Profile+views&color=0e75b6&style=flat-square)](https://github.com/Linz1248)
 [![Email](https://img.shields.io/badge/Email-1552855968%40qq.com-D14836?style=flat-square)](mailto:1552855968@qq.com)
@@ -15,10 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I build **LLM-powered agent systems** — multi-agent orchestration, hybrid RAG pipelines, and tool-calling architectures with **LangGraph / LangChain** and **FastAPI**
+- 🔭 I build **LLM-powered agent systems** and **full-stack apps** — multi-agent orchestration, hybrid RAG pipelines, and end-to-end services with **LangGraph / LangChain**, **FastAPI** and **Vue.js**
 - 🌱 M.Eng. student in Computer Science at **Guangzhou University** (2024–2027); my research focuses on **image generation & editing** with diffusion models (Stable Diffusion, CLIP, DreamBooth)
-- 💬 Ask me about **LLM agents, RAG optimization, NL2SQL, FastAPI, or Spring Boot**
-- 🎯 Open to **AI application / backend development** opportunities (graduating June 2027)
+- 💬 Ask me about **LLM agents, RAG optimization, FastAPI, Spring Boot, or Vue.js**
+- 🎯 Open to **AI application / full-stack development** opportunities (graduating June 2027)
 - 📍 Based in **Guangzhou, China**
 
 ## 💼 Internship Experience
