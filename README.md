@@ -70,34 +70,12 @@ An AI-powered Q&A platform for pet owners: multi-agent orchestration, hybrid RAG
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🧪 LabMemory · Trusted Experiment Decision Platform `Jul 2026 – Aug 2026`
-
-Team project for the **AI Pioneer Future Talent Competition** — a Feishu-embedded, full-link system for **AI for Science** experiment decisions: post-meeting review → parameter versioning → pre-action audit → task execution → result reflow → knowledge publishing.
-
-- **Trusted decision kernel** — six quality gates, parameter-level versioning, a five-state knowledge lifecycle, and tri-valued audit trails with semantic guardrails and numeric conflict detection, so AI candidates never take effect unreviewed
-- **Pre-action audit** — five pre-execution checks (version / evidence / approval / resource / failure boundary); stale-parameter references are automatically blocked with guided correction
-- **Hybrid RAG** — BM25 + vector dual recall with multi-dimensional weighted reranking and relation expansion for trusted Q&A; streaming SSE output with multiple refusal paths
-- **Experiment Passport** — every result traces back to the original meeting transcript, and every decision exposes its downstream impact, organized by meeting relation chains and experiment timelines
-
 ## 🌱 Open Source Contributions
 
 - [**apache/seatunnel**](https://github.com/apache/seatunnel) (9.6k★) — Pulsar connector declarative-validation migration with 14 factory validation tests ([PR #11985](https://github.com/apache/seatunnel/pull/11985), in review)
 - [**mastra-ai/mastra**](https://github.com/mastra-ai/mastra) (27.5k★) — fixed MCP `tools/call` responses dropping `_meta` / `ui.resourceUri`, mirroring `tools/list` normalization so third-party MCP hosts can render MCP Apps, with integration tests ([PR #22454](https://github.com/mastra-ai/mastra/pull/22454), in review)
 - [**chroma-core/chroma**](https://github.com/chroma-core/chroma) — migrated the Gemini example off deprecated SDK APIs ([PR #7637](https://github.com/chroma-core/chroma/pull/7637), in review)
 - [**shcherbak-ai/contextgem**](https://github.com/shcherbak-ai/contextgem) (2k★) — reported the Gemma3 vision-capability misdetection, confirmed and fixed in **v0.12.1** with an explicit vision-capability option ([issue #47](https://github.com/shcherbak-ai/contextgem/issues/47) → [PR #49](https://github.com/shcherbak-ai/contextgem/pull/49))
-
-## 🔬 Research & Publications
-
-My research focuses on **image generation and editing**: cross-modal representations (CLIP), diffusion models (VAE / DDPM / DDIM), personalized fine-tuning (Textual Inversion, DreamBooth), and classic editing methods (Instruct-Pix2Pix, PnP).
-
-- 📄 *EmoPrompt+: Emotional Image Content Generation via Emotion-Driven Prompting and Multi-Level Emotional Guidance in Stable Diffusion* — **CCBR 2025** (accepted)
-- 📄 *C-EmoEditor: Affective Image Editing Based on Valence-Arousal Model* — **The Visual Computer** (under review)
-
-## 🏆 Honors & Certifications
-
-- 🥇 Graduate Academic Scholarships (1st & 2nd Prize), Guangzhou University · First-Class Scholarship & National Encouragement Scholarship, Huizhou University
-- 🏅 Lanqiao Cup Java Development (Graduate Division) · Guangdong 3rd Prize · National College Student Software Testing Contest (Developer Testing) · Provincial 3rd Prize
-- 📜 CET-6 · Software Designer certification (China Soft Exam)
 
 ## 🛠️ Tech Stack
 
