@@ -49,10 +49,10 @@ Contributing across the AI / agent ecosystem — connectors, MCP tooling, embedd
 
 | Repo | Contribution | Status |
 | :--- | :--- | :--- |
-| [apache/seatunnel](https://github.com/apache/seatunnel) ⭐ 9.8k | [#11985](https://github.com/apache/seatunnel/pull/11985) Pulsar connector declarative-validation migration, with 14 factory validation tests | ✅ Merged |
-| [chroma-core/chroma](https://github.com/chroma-core/chroma) ⭐ 29.7k | [#7637](https://github.com/chroma-core/chroma/pull/7637) Migrate the Gemini example off deprecated SDK APIs | In review |
-| [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) ⭐ 2.1k | [#47](https://github.com/shcherbak-ai/contextgem/issues/47) → [#49](https://github.com/shcherbak-ai/contextgem/pull/49) Gemma3 vision-capability misdetection, fixed in **v0.12.1** | ✅ Merged |
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) ⭐ 35.8k | [#349](https://github.com/NandhaKishorM/laya/pull/349) Scope the per-inference CUDA OOM fallback to the failed request | ✅ Merged |
+| [apache/seatunnel](https://github.com/apache/seatunnel)&nbsp;⭐&nbsp;9.8k | [#11985](https://github.com/apache/seatunnel/pull/11985) Pulsar connector declarative-validation migration, with 14 factory validation tests | ✅ Merged |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma)&nbsp;⭐&nbsp;29.7k | [#7637](https://github.com/chroma-core/chroma/pull/7637) Migrate the Gemini example off deprecated SDK APIs | In review |
+| [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem)&nbsp;⭐&nbsp;2.1k | [#47](https://github.com/shcherbak-ai/contextgem/issues/47) → [#49](https://github.com/shcherbak-ai/contextgem/pull/49) Gemma3 vision-capability misdetection, fixed in **v0.12.1** | ✅ Merged |
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)&nbsp;⭐&nbsp;35.8k | [#349](https://github.com/NandhaKishorM/laya/pull/349) Scope the per-inference CUDA OOM fallback to the failed request | ✅ Merged |
 
 ---
 
