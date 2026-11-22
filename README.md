@@ -74,10 +74,7 @@ Contributing across the AI / agent ecosystem — connectors, MCP tooling, embedd
 
 ### 🐍 Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Linz1248/Linz1248/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Johan's GitHub contribution graph, animated as a snake" src="https://raw.githubusercontent.com/Linz1248/Linz1248/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="Johan's GitHub contribution graph, animated as a snake" src="https://raw.githubusercontent.com/Linz1248/Linz1248/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
