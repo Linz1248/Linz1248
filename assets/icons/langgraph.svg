@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="LangGraph">
+  <title>LangGraph</title>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g transform="translate(56,56) scale(6)" fill="#7FC8FF">
+      <path d="M5 19H10A5 5 0 115 14ZM19 14A5 5 0 1114 19H19ZM10 5A5 5 0 105 10V5ZM19 5V10A5 5 0 1014 5Z" />
+  </g>
+</svg>
