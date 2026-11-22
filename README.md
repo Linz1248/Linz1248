@@ -29,17 +29,15 @@ Building LLM-powered agent systems and full-stack applications — multi-agent o
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-**Pet Wellness Advisor Agent** — AI-powered pet-health Q&A platform `2025.12 – 2026.02`
+**[Comet 彗记](https://comet-ai.top/)** — AI 记忆助手
 
-> Built solo, end to end: Supervisor-routed agents, hybrid retrieval over parent–child chunks, and knowledge-graph long-term memory.
+> Comet is a multi-user personal AI knowledge base and memory assistant that builds a searchable RAG knowledge base from documents, images, and web pages, and a knowledge graph from conversations. An LLM agent orchestrates knowledge-base, memory, and web-search tools and supports deep research, scheduled tasks, and multi-agent group chats.
 
-- **Multi-agent orchestration** — LangGraph **Supervisor routing + Specialist executors** with parallel execution and ReAct-style tool calling; expert mode decomposes complex questions into a dependency-annotated **DAG**, layered by Kahn topological sort for same-layer parallel / cross-layer serial execution
-- **Hybrid RAG** — vector + BM25 dual recall fused with **RRF**; parent–child chunk indexing (precise child matching, context-complete parent blocks); fine-grained reranking via `qwen3-rerank`
-- **Knowledge-graph memory** — **Neo4j**-based long-term memory: ontology-constrained LLM triple extraction, two-layer entity dedup, vector + full-text + 1-hop-neighbor hybrid retrieval, **LPA** community clustering, and four-layer provenance (dialogue → chunk → statement → entity)
-
-`Python` `LangGraph` `LangChain` `FastAPI` `Milvus` `Neo4j` `MySQL` `Celery` `Vue.js` `Docker`
+- **Closed-Loop Quality Assurance (Verifier Loop)** — A context-isolated, cross-family verifier scores agent output on a six-dimension rubric and automatically patches or rewrites failures, with loop state persisted for resumability.
+- **Traceable, Correctable Memory Graph** — A controlled-vocabulary pipeline builds a four-layer provenance graph with profile/event memory split, two-stage entity deduplication, and incremental community clustering. User corrections feed back into recall weighting.
+- **Multi-Agent Group Chat (Host-Orchestrated)** — A host LLM decides who to speak each round, or stays silent, while speaker-prefixed transcripts let later speakers build on earlier messages. Characters can also use tools and process images.
 
 ---
 
