@@ -31,7 +31,7 @@ Building LLM-powered agent systems and full-stack applications — multi-agent o
 
 ### 🚀 Projects
 
-**[Comet 彗记](https://comet-ai.top/)** — AI 记忆助手
+**[Comet 彗记](https://comet-ai.top/)** — AI Memory Assistant
 
 > Comet is a multi-user personal AI knowledge base and memory assistant that builds a searchable RAG knowledge base from documents, images, and web pages, and a knowledge graph from conversations. An LLM agent orchestrates knowledge-base, memory, and web-search tools and supports deep research, scheduled tasks, and multi-agent group chats.
 
