@@ -39,6 +39,8 @@ Building LLM-powered agent systems and full-stack applications.
 - **Traceable, Correctable Memory Graph** — A controlled-vocabulary pipeline builds a four-layer provenance graph with profile/event memory split, two-stage entity deduplication, and incremental community clustering. User corrections feed back into recall weighting.
 - **Multi-Agent Group Chat (Host-Orchestrated)** — A host LLM decides who to speak each round, or stays silent, while speaker-prefixed transcripts let later speakers build on earlier messages. Characters can also use tools and process images.
 
+`FastAPI` `PostgreSQL` `Elasticsearch` `Neo4j` `Redis` `LangChain` `React` `TypeScript` `Docker`
+
 **[LabMemory](https://github.com/passionworkeer/LabMemory)** — Trusted experiment decision & memory system, native to Feishu
 
 > 🏆 **National Top 40**, 2026 AI Pioneer Future Talent Competition (2026 飞书 AI 先锋未来人才大赛)
