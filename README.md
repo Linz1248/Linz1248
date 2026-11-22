@@ -5,7 +5,7 @@
 **AI Application Engineer · Full-Stack Development**
 M.Eng. in Computer Science @ Guangzhou University · 2024 – 2027
 
-Building LLM-powered agent systems and full-stack applications — multi-agent orchestration, hybrid RAG, and LLM evaluation.
+Building LLM-powered agent systems and full-stack applications.
 
 <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/baidu.svg?v=3" height="40" alt="Baidu" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/miniso.svg?v=3" height="40" alt="MINISO" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/feishu.svg?v=3" height="40" alt="Feishu" />
 
@@ -38,6 +38,14 @@ Building LLM-powered agent systems and full-stack applications — multi-agent o
 - **Closed-Loop Quality Assurance (Verifier Loop)** — A context-isolated, cross-family verifier scores agent output on a six-dimension rubric and automatically patches or rewrites failures, with loop state persisted for resumability.
 - **Traceable, Correctable Memory Graph** — A controlled-vocabulary pipeline builds a four-layer provenance graph with profile/event memory split, two-stage entity deduplication, and incremental community clustering. User corrections feed back into recall weighting.
 - **Multi-Agent Group Chat (Host-Orchestrated)** — A host LLM decides who to speak each round, or stays silent, while speaker-prefixed transcripts let later speakers build on earlier messages. Characters can also use tools and process images.
+
+**[LabMemory](https://github.com/passionworkeer/LabMemory)** — Trusted experiment decision & memory system, native to Feishu
+
+> LabMemory compiles natural-language lab discussions from Feishu Minutes into reviewable structured decisions, threads them through an experiment passport, blocks stale or conflicting parameters before execution, and feeds experiment results back into the knowledge graph.
+
+- **Decision Compiler** — Meeting transcripts are parsed into candidate parameters, core claims, supporting evidence, disputes, and follow-up tasks; every value stays anchored to the original utterance with three-way provenance (raw statement, model-extracted value, human-confirmed value) before entering a review inbox.
+- **Six-Gate Trusted Memory & Experiment Passport** — Claims pass six gates (source validity, evidence re-checkability, version-chain continuity, state-machine compliance, applicability bounds, owner endorsement); each experiment ID links execution data back to the approved version and the exact transcript line.
+- **Pre-action Audit & Closed-Loop Backflow** — Five pre-flight checks block superseded parameters, unresolved disputes, invalidated evidence, unmet prerequisites, and out-of-range settings (pass / confirm / block); recorded results update claim status as supported, refuted, or partially supported and auto-generate failure-boundary cards.
 
 ---
 
