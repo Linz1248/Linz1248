@@ -41,6 +41,8 @@ Building LLM-powered agent systems and full-stack applications.
 
 **[LabMemory](https://github.com/passionworkeer/LabMemory)** — Trusted experiment decision & memory system, native to Feishu
 
+> 🏆 **National Top 40**, 2026 AI Pioneer Future Talent Competition (2026 飞书 AI 先锋未来人才大赛)
+>
 > LabMemory compiles natural-language lab discussions from Feishu Minutes into reviewable structured decisions, threads them through an experiment passport, blocks stale or conflicting parameters before execution, and feeds experiment results back into the knowledge graph.
 
 - **Decision Compiler** — Meeting transcripts are parsed into candidate parameters, core claims, supporting evidence, disputes, and follow-up tasks; every value stays anchored to the original utterance with three-way provenance (raw statement, model-extracted value, human-confirmed value) before entering a review inbox.
