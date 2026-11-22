@@ -68,7 +68,7 @@ Contributing across the AI / agent ecosystem — connectors, MCP tooling, embedd
 
 [![Skills](https://skillicons.dev/icons?i=python,java,fastapi,spring,mysql,redis,docker,nginx,linux,git,vue)](https://skillicons.dev)
 
-`LangChain` `LangGraph` `Dify` `MCP` `Ollama` `LoRA Fine-tuning` `RAG (Hybrid Search + Rerank)` `LLM-as-Judge` `Milvus` `Neo4j` `Celery` `PaddleOCR` `Spring Cloud Gateway` `JWT / RBAC`
+<img src="https://cdn.simpleicons.org/langchain/7d8590" height="32" alt="LangChain" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langgraph/7d8590" height="32" alt="LangGraph" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dify/7d8590" height="32" alt="Dify" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/modelcontextprotocol/7d8590" height="32" alt="Model Context Protocol" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ollama/7d8590" height="32" alt="Ollama" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/milvus/7d8590" height="32" alt="Milvus" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/neo4j/7d8590" height="32" alt="Neo4j" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/celery/7d8590" height="32" alt="Celery" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/paddlepaddle/7d8590" height="32" alt="PaddlePaddle" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/7d8590" height="32" alt="JWT" />
 
 ---
 
