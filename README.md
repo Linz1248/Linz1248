@@ -7,7 +7,7 @@ M.Eng. in Computer Science @ Guangzhou University · 2024 – 2027
 
 Building LLM-powered agent systems and full-stack applications — multi-agent orchestration, hybrid RAG, and LLM evaluation.
 
-<img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/baidu.svg?v=2" height="40" alt="Baidu" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/miniso.svg?v=2" height="40" alt="MINISO" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/feishu.svg?v=2" height="40" alt="Feishu" />
+<img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/baidu.svg?v=3" height="40" alt="Baidu" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/miniso.svg?v=3" height="40" alt="MINISO" /> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Linz1248/Linz1248/main/assets/logos/feishu.svg?v=3" height="40" alt="Feishu" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Linz1248-181717?style=flat&logo=github&logoColor=white)](https://github.com/Linz1248)
 [![Email](https://img.shields.io/badge/Email-1552855968%40qq.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:1552855968@qq.com)
