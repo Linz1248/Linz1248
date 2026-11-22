@@ -7,7 +7,7 @@ M.Eng. in Computer Science @ Guangzhou University · 2024 – 2027
 
 Building LLM-powered agent systems and full-stack applications — multi-agent orchestration, hybrid RAG, and LLM evaluation.
 
-<img src="/Linz1248/Linz1248/raw/main/assets/logos/miniso.svg" height="24" alt="MINISO" /> &nbsp;&nbsp;&nbsp; <img src="/Linz1248/Linz1248/raw/main/assets/logos/xinan.svg" height="24" alt="Xin'an Data" /> &nbsp;&nbsp;&nbsp; <img src="/Linz1248/Linz1248/raw/main/assets/logos/suanwei.svg" height="24" alt="Suanwei Technology" />
+<img src="/Linz1248/Linz1248/raw/main/assets/logos/baidu.svg" height="24" alt="Baidu" /> &nbsp;&nbsp;&nbsp; <img src="/Linz1248/Linz1248/raw/main/assets/logos/miniso.svg" height="24" alt="MINISO" /> &nbsp;&nbsp;&nbsp; <img src="/Linz1248/Linz1248/raw/main/assets/logos/feishu.svg" height="24" alt="Feishu" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Linz1248-181717?style=flat&logo=github&logoColor=white)](https://github.com/Linz1248)
 [![Email](https://img.shields.io/badge/Email-1552855968%40qq.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:1552855968@qq.com)
@@ -17,19 +17,11 @@ Building LLM-powered agent systems and full-stack applications — multi-agent o
 
 ---
 
-### 🧑‍💻 About
-
-- 🎓 M.Eng. student in Computer Science at **Guangzhou University** (GPA 3.96/5.0), researching **diffusion-based image generation & editing** (Stable Diffusion, CLIP, DreamBooth)
-- 🤖 I build **LLM-powered agent systems** — multi-agent orchestration, hybrid RAG pipelines, and LLM evaluation & data-flywheel loops
-- 🧩 Active open-source contributor across the AI / agent ecosystem — **Apache SeaTunnel**, **Mastra**, **Chroma**, **ContextGem**
-- 💬 Ask me about **LLM agents, RAG optimization, LLM evaluation, FastAPI, Spring Boot, or Vue.js**
-- 🎯 Open to **AI application / full-stack development** roles (graduating June 2027) · 📍 **Guangzhou, China**
-
----
-
 ### 💼 Experience
 
-**AI Full-Stack Intern · MINISO (Guangzhou)** `2026.06 – Present`
+**Test Development Intern · Baidu** `2026.11 – Present`
+
+**AI Full-Stack Intern · MINISO (Guangzhou)** `2026.06 – 2026.09`
 
 **AI Application Development Intern · Xin'an Data Co., Ltd. (Guangzhou)** `2026.03 – 2026.06`
 
@@ -57,10 +49,9 @@ Contributing across the AI / agent ecosystem — connectors, MCP tooling, embedd
 
 | Repo | Contribution | Status |
 | :--- | :--- | :--- |
-| [apache/seatunnel #11985](https://github.com/apache/seatunnel/pull/11985) | Pulsar connector declarative-validation migration, with 14 factory validation tests | In review |
-| [mastra-ai/mastra #22454](https://github.com/mastra-ai/mastra/pull/22454) | Fix MCP `tools/call` responses dropping `_meta` / `ui.resourceUri` | In review |
+| [apache/seatunnel #11985](https://github.com/apache/seatunnel/pull/11985) | Pulsar connector declarative-validation migration, with 14 factory validation tests | ✅ Merged |
 | [chroma-core/chroma #7637](https://github.com/chroma-core/chroma/pull/7637) | Migrate the Gemini example off deprecated SDK APIs | In review |
-| [shcherbak-ai/contextgem #47](https://github.com/shcherbak-ai/contextgem/issues/47) → [#49](https://github.com/shcherbak-ai/contextgem/pull/49) | Gemma3 vision-capability misdetection, fixed in **v0.12.1** | ✅ Fixed |
+| [shcherbak-ai/contextgem #47](https://github.com/shcherbak-ai/contextgem/issues/47) → [#49](https://github.com/shcherbak-ai/contextgem/pull/49) | Gemma3 vision-capability misdetection, fixed in **v0.12.1** | ✅ Merged |
 
 ---
 
